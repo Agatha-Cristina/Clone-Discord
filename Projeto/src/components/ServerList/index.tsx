@@ -33,4 +33,4 @@ const ServerList: React.FC = () => {
     )
 };
 
-export default ServerList;
+//export default ServerList;
